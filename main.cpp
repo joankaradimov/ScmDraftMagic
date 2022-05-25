@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <Windows.h>
+#include "CIsoTables.h"
 
 struct TileGroupRaw
 {
